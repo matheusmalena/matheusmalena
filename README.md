@@ -9,9 +9,11 @@ Sou formado em ADS 💻
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmalena&layout=compact&theme=tokyonight" />
 </div>
 
-### Acesse minhas redes sociais 
+### 🤍 Let's get connected:
 
-[![Linkedin](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/n9KBKHPA3H)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusmalena/)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5513996958183)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eaemalena)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:matheusmalena28@gmail.com")
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mailto:matheusmalena28@gmail.com)
+
+### 🌐 Technologies e Tools I use:
