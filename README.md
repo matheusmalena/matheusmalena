@@ -2,7 +2,7 @@
 
 Muito prazer, eu sou o Matheus.. mas muitos me chamam de  >> Malena! << 
 
-Sou formado em ADS 💻
+Sou formado em ADS, desenvolvedor iniciante de Front-end, atualmente faço alguns cursos na Alura. 💻 
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusmalena&show_icons=true&theme=tokyonight" />
