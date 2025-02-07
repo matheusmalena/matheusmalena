@@ -28,7 +28,7 @@ Sou formado em ADS, desenvolvedor Front-end, atualmente faço alguns cursos na A
 <img align="center" alt="Matheus-npm" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
 <img align="center" alt="Matheus-linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 <img align="center" alt="Matheus-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="center" alt="Matheus-angular" height="80" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original-wordmark.svg" />
+  <img align="center" alt="Matheus-TS" height="90" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original-wordmark.svg" />
 <img align="center" alt="Matheus-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 <img align="center" alt="Matheus-sass" height="50" width="50"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
 <img align="center" alt="Matheus-figma" height="80" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
@@ -37,7 +37,6 @@ Sou formado em ADS, desenvolvedor Front-end, atualmente faço alguns cursos na A
 <img align="center" alt="Matheus-TS" height="30" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" />
 <img align="center" alt="Matheus-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 <img align="center" alt="Matheus-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />
-<img align="center" alt="Matheus-TS" height="90" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original-wordmark.svg" />
 
           
 </div>
