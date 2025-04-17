@@ -1,4 +1,4 @@
-<h1 align="center">Hey, eu sou o Matheus 😎</h1>
+<h2 align="center">Hey, eu sou o Matheus 😎</h2>
 
 <p align="center">
   Também conhecido como Malena
@@ -68,4 +68,4 @@
 
 ---
 
-<h3 align="center">💬 Bora trocar ideia, colaborar em projetos e construir algo incrível juntos!</h3>
+<h4 align="center">💬 Bora trocar ideia, colaborar em projetos e construir algo incrível juntos!</h4>
