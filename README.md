@@ -1,46 +1,46 @@
-<h1 align="center">Fala aí! Eu sou o Matheus 😎</h1>
+<h1 align="center">Fala aí, eu sou o Matheus 👨‍💻</h1>
 
 <p align="center">
-  Também conhecido como <strong>Malena</strong>! <br/>
-  Desenvolvedor <strong>Front-end</strong> apaixonado por tecnologia, formado em <strong>Análise e Desenvolvimento de Sistemas</strong> 👨‍💻<br/>
-  Atualmente me aprimorando com os cursos da <strong>Alura</strong> 🚀
+  Também conhecido como <strong>Malena</strong> 😎<br/>
+  Sou um <strong>Desenvolvedor Full Stack</strong> apaixonado por tecnologia e movido por desafios!<br/>
+  Formado em <strong>Análise e Desenvolvimento de Sistemas</strong>, atualmente continuo evoluindo com os cursos da <strong>Alura</strong> 🚀
 </p>
 
 ---
 
-### Sobre mim:
+### ✨ Sobre mim
 
 - 🎓 Formado em **ADS**
-- 🛠️ Desenvolvedor **Front-end**, explorando o **Back-end**
-- 📍 Criando soluções criativas na **Malena Tech**
-- 📚 Estudando diariamente com foco em evolução constante
+- 💻 Atuo como **Dev Full Stack**, com foco em Front-end
+- 🧠 Sempre buscando inovação e aprendizado contínuo
+- 🚀 Curioso, proativo e pronto pra construir soluções de impacto
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas:
+### 🛠️ Tecnologias e Ferramentas que utilizo
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" />
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="Jira"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" height="40" alt="DBeaver"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="Notion"/>
 </div>
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 Minhas estatísticas no GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusmalena&show_icons=true&theme=tokyonight&count_private=true" />
@@ -49,7 +49,7 @@
 
 ---
 
-<h2 align="center"> 🤍 Bora se conectar?</h2>
+<h2 align="center">🤍 Vamos nos conectar?</h2>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/matheusmalena/" target="_blank">
@@ -68,4 +68,4 @@
 
 ---
 
-<p align="center">💬 Sempre aberto a trocar ideias, colaborar e construir juntos!</p>
+<p align="center">💬 Bora trocar ideia, colaborar em projetos e construir algo incrível juntos!</p>
