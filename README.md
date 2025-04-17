@@ -8,7 +8,7 @@
 
 ---
 
-### 🧠 Sobre mim:
+### Sobre mim:
 
 - 🎓 Formado em **ADS**
 - 🛠️ Desenvolvedor **Front-end**, explorando o **Back-end**
@@ -49,9 +49,9 @@
 
 ---
 
-### 🤍 Bora se conectar?
+<h2 align="center"> 🤍 Bora se conectar?</h2>
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/matheusmalena/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
