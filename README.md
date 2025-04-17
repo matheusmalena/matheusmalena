@@ -1,7 +1,7 @@
-<h1 align="center">Fala aí, eu sou o Matheus 👨‍💻</h1>
+<h1 align="center">Hey, eu sou o Matheus 😎</h1>
 
 <p align="center">
-  Também conhecido como <strong>Malena</strong> 😎<br/>
+  Também conhecido como <strong>Malena</strong> 
   Sou um <strong>Desenvolvedor Full Stack</strong> apaixonado por tecnologia e movido por desafios!<br/>
   Formado em <strong>Análise e Desenvolvimento de Sistemas</strong>, atualmente continuo evoluindo com os cursos da <strong>Alura</strong> 🚀
 </p>
