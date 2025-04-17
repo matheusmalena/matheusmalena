@@ -1,19 +1,19 @@
 <h1 align="center">Hey, eu sou o Matheus 😎</h1>
 
 <p align="center">
-  Também conhecido como <strong>Malena</strong> 
-  Sou um <strong>Desenvolvedor Full Stack</strong> apaixonado por tecnologia e movido por desafios!<br/>
-  Formado em <strong>Análise e Desenvolvimento de Sistemas</strong>, atualmente continuo evoluindo com os cursos da <strong>Alura</strong> 🚀
+  Também conhecido como Malena
+  Sou um Desenvolvedor Full Stack apaixonado por tecnologia e esportes!<br/>
+  Formado em Análise e Desenvolvimento de Sistemas, atualmente continuo evoluindo com os cursos da <strong>Alura</strong> 🚀
 </p>
 
 ---
 
 ### ✨ Sobre mim
 
-- 🎓 Formado em **ADS**
-- 💻 Atuo como **Dev Full Stack**, com foco em Front-end
-- 🧠 Sempre buscando inovação e aprendizado contínuo
-- 🚀 Curioso, proativo e pronto pra construir soluções de impacto
+- 🎓 Formado em ADS
+- 💻 Sou dev **Full Stack** JR
+- 🚀 Sempre buscando inovação e aprendizado contínuo
+- 🏄‍♂️ Nas horas vagas eu surfo e pratico esportes
 
 ---
 
@@ -49,7 +49,7 @@
 
 ---
 
-<h2 align="center">🤍 Vamos nos conectar?</h2>
+<h2 align="center">🤙 Vamos nos conectar?</h2>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/matheusmalena/" target="_blank">
@@ -68,4 +68,4 @@
 
 ---
 
-<p align="center">💬 Bora trocar ideia, colaborar em projetos e construir algo incrível juntos!</p>
+<h3 align="center">💬 Bora trocar ideia, colaborar em projetos e construir algo incrível juntos!</h3>
