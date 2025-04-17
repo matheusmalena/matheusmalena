@@ -1,42 +1,71 @@
-### Hi! 🤙
+<h1 align="center">Fala aí! Eu sou o Matheus 😎</h1>
 
-Muito prazer, eu sou o Matheus.. mas muitos me chamam de  >> Malena! << 
+<p align="center">
+  Também conhecido como <strong>Malena</strong>! <br/>
+  Desenvolvedor <strong>Front-end</strong> apaixonado por tecnologia, formado em <strong>Análise e Desenvolvimento de Sistemas</strong> 👨‍💻<br/>
+  Atualmente me aprimorando com os cursos da <strong>Alura</strong> 🚀
+</p>
 
-Sou formado em ADS, desenvolvedor Front-end, atualmente faço alguns cursos na Alura. 💻 
+---
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusmalena&show_icons=true&theme=tokyonight" />
+### 🧠 Sobre mim:
+
+- 🎓 Formado em **ADS**
+- 🛠️ Desenvolvedor **Front-end**, explorando o **Back-end**
+- 📍 Criando soluções criativas na **Malena Tech**
+- 📚 Estudando diariamente com foco em evolução constante
+
+---
+
+### 🛠️ Tecnologias e Ferramentas:
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" />
+</div>
+
+---
+
+### 📊 GitHub Stats:
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusmalena&show_icons=true&theme=tokyonight&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmalena&layout=compact&theme=tokyonight" />
 </div>
 
-### 🤍 Let's get connected:
+---
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusmalena/)
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5513996958183)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eaemalena)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mailto:matheusmalena28@gmail.com)
+### 🤍 Bora se conectar?
 
-### 🌐 Technologies e Tools I use:
-
-<div>
-<img align="center" alt="Matheus-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="center" alt="Matheus-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="center" alt="Matheus-VUE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
-<img align="center" alt="Matheus-BOOTSTRAP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" />
-<img align="center" alt="Matheus-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="center" alt="Matheus-NODEJS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
-<img align="center" alt="Matheus-npm" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
-<img align="center" alt="Matheus-linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-<img align="center" alt="Matheus-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-  <img align="center" alt="Matheus-TS" height="90" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original-wordmark.svg" />
-<img align="center" alt="Matheus-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-<img align="center" alt="Matheus-sass" height="50" width="50"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
-<img align="center" alt="Matheus-figma" height="80" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
-<img align="center" alt="Matheus-jira" height="35" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" />
-<img align="center" alt="Matheus-TS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
-<img align="center" alt="Matheus-TS" height="30" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" />
-<img align="center" alt="Matheus-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-<img align="center" alt="Matheus-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />
-
-          
+<div align="left">
+  <a href="https://www.linkedin.com/in/matheusmalena/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://wa.me/5513996958183" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/eaemalena" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:matheusmalena28@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>
+
+---
+
+<p align="center">💬 Sempre aberto a trocar ideias, colaborar e construir juntos!</p>
