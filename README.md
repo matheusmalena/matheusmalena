@@ -11,7 +11,7 @@
 ### ✨ Sobre mim
 
 - 🎓 Formado em ADS
-- 💻 Sou dev **Full Stack** JR
+- 💻 Sou dev Full Stack junior
 - 🚀 Sempre buscando inovação e aprendizado contínuo
 - 🏄‍♂️ Nas horas vagas eu surfo e pratico esportes
 
